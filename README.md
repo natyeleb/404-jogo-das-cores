@@ -10,7 +10,7 @@
 - Ultilizamos em `CSS` display flex e propriedades simples de ediçao 
 - Em `Javascript`, utilizamos `FOR`,`MATH` e `FUNCTION`.
 
-##EX: função resetar jogo
+**EX: função resetar jogo**
 
 ~~~
 
